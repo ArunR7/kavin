@@ -1,0 +1,56 @@
+.ss1 {
+  display: flex;
+  margin-top: 1em;
+  margin-left: 0.1em;
+  list-style-type: none;
+}
+
+.e1 {
+  display: flex;
+  list-style-type: none;
+}
+
+.e2 {
+  margin-top: 1.2em;
+  font-weight: bold;
+  margin-left: 1.5em;
+  font-size: 1.5rem;
+}
+
+.e3 {
+  color: red;
+  margin-top: 2.2em;
+  font-weight: 500;
+  margin-left: 80%;
+  font-size: 1rem;
+}
+
+.g1 {
+  list-style-type: none;
+}
+
+.j1 {
+  margin-left: 2em;
+  list-style-type: none;
+}
+
+.k1 {
+  margin-left: 2em;
+  list-style-type: none;
+}
+
+.l1 {
+  color: red;
+  margin-top: 1em;
+}
+
+.l2 {
+  margin-top: 0.5em;
+  font-weight: 600;
+  font-size: 1.2rem;
+}
+
+.l3,
+.l4 {
+  margin-top: 1em;
+}

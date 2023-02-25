@@ -1,0 +1,19 @@
+.t1 {
+  display: flex;
+  list-style-type: none;
+}
+
+.t2 {
+  font-size: 1.5rem;
+  font-weight: 500;
+  margin-top: 1em;
+  margin-left: 1.5em;
+}
+
+.t3 {
+  font-size: 1rem;
+  font-weight: 500;
+  color: red;
+  margin-top: 2em;
+  margin-left: 70%;
+}

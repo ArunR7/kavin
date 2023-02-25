@@ -1,0 +1,94 @@
+.es1 {
+  list-style-type: none;
+  margin-top: 2em;
+  margin-left: 1em;
+}
+
+.u1 {
+  font-weight: bold;
+  margin-left: 0.7em;
+  font-size: 1.5rem;
+  list-style-type: none;
+}
+
+.yy1 {
+  margin-top: 1em;
+  margin-left: 1em;
+  list-style-type: none;
+}
+
+.kk1 {
+  margin-top: 1em;
+  list-style-type: none;
+  margin-left: 1em;
+}
+
+.kk2,
+.kk3,
+.kk4 {
+  margin-top: 1em;
+  margin-left: 4em;
+  list-style-type: none;
+}
+
+.flex1 {
+  display: flex;
+}
+
+.yy2,
+.yy3,
+.yy4 {
+  margin-top: 1em;
+  margin-left: 4em;
+  list-style-type: none;
+}
+
+.qq1 {
+  margin-top: 1em;
+  list-style-type: none;
+  margin-left: 1em;
+}
+
+.qq3 {
+  margin-right: 15em;
+  color: red;
+  margin-top: 0.5em;
+  margin-left: 1em;
+}
+.qq2 {
+  list-style-type: none;
+  margin-left: 1em;
+  margin-top: 0.5em;
+}
+
+.ww1 {
+  margin-top: 1em;
+  list-style-type: none;
+  margin-left: 3.5em;
+}
+
+.ww3 {
+  margin-right: 15em;
+  color: red;
+  margin-top: 0.5em;
+  margin-left: 3.5em;
+}
+.ww2 {
+  list-style-type: none;
+  margin-left: 3.5em;
+  margin-top: 0.5em;
+}
+
+.support {
+  margin-left: 1.5em;
+  margin-right: 1.5em;
+  margin-top: 2em;
+}
+
+.e2 {
+  margin-top: 1.2em;
+  font-weight: bold;
+  margin-left: 1.5em;
+  font-size: 1.5rem;
+  list-style-type: none;
+}

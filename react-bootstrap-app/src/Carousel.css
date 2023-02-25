@@ -1,0 +1,38 @@
+.banner {
+  position: relative;
+  width: 100%;
+  margin-top: 1%;
+}
+
+.SL2 {
+  position: absolute;
+  left: 15%;
+  bottom: 20%;
+  list-style-type: none;
+}
+
+.SL3 {
+  position: absolute;
+  left: 15%;
+  bottom: 5%;
+  list-style-type: none;
+  display: flex;
+}
+
+@media only screen and (max-width: 600px) {
+  .SL2 {
+    position: absolute;
+    top: 90%;
+    right: 30%;
+    list-style-type: none;
+  }
+
+  .SL3 {
+    position: absolute;
+    top: 200%;
+
+    right: 15%;
+    list-style-type: none;
+    display: flex;
+  }
+}
